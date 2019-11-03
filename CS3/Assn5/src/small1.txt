@@ -1,0 +1,14 @@
+   a	10144200
+   abandon	15323
+   ability	51476
+   able	103171
+   abortion	18925
+   about	874406
+   above	44130
+   abroad	8788
+   absence	13597
+   absolute	9622
+   absolutely	36740
+   absorb	9762
+   abstract	7165
+   abuse	24534
